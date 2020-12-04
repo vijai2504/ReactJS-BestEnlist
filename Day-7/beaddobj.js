@@ -1,3 +1,4 @@
+  
 Array.prototype.beaddobject = function (key, value) {
     this.map((object) => {
         object[key] = value;
