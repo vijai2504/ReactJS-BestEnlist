@@ -1,0 +1,39 @@
+.set {
+    padding-top: 1%;
+    padding-left: 5%;
+}
+
+.set > h2 {
+    font-size: 2.5rem;
+    padding-bottom: 20px;
+}
+
+.set__1 > h4, .set__3 > h4 {
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+}
+
+.set__1 > input, .set__3 > input {
+    flex: 0.4;
+    display: flex;
+    padding: 10px 50px;
+    color: gray;
+    border: 1px gray solid;
+    border-radius: 6px;
+    min-width: 35vw;
+    margin-bottom: 10px;
+}
+
+.set__3 > .MuiSvgIcon-root {
+    color: rgb(6, 4, 160);
+    font-size: 1.8rem;
+}
+
+.set__4 > Button {
+    flex: 0.5;
+    margin-top: 50px;
+    text-transform: inherit !important;
+    background-color: #0a8d48 !important;
+    color: white;
+    margin-left: 100px;
+}

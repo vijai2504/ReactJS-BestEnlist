@@ -1,0 +1,67 @@
+.login__page {
+    background-image: url("./images/Untitled-1.jpg");
+    padding-top: 70px;
+    font-style: oblique;
+    top: 0;
+    left: 0;
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+}
+
+.head {
+    color: white;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.login__1 {
+    padding: 20px;
+    padding-top: 50px;
+}
+
+.head > h1 {
+    font-weight:bold;
+    font-size: 4.5rem;
+}
+
+.Login__left {
+    flex: 0.3;
+    align-items: center;
+    margin-left: 50px;
+    padding-left:160px;
+
+}
+
+.Login__right {
+    flex: 0.1;
+    align-items: center;
+    padding-left: 230px;
+}
+
+.Login__left > h2, .Login__right > h2 {
+    color: white;
+    font-size: 2.3rem;
+    padding-left: 25px;
+    padding-bottom: 20px;
+}
+
+.Login__left > Button, .Login__right > Button {
+    background-color: rgb(4, 119, 252);
+    padding: 6px;
+}
+
+.Login__right > input, .Login__left > input, .left__in > input {
+    width: 40%;
+    padding: 10px 20px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+.recap {
+    min-width: 5vh;
+}

@@ -1,0 +1,54 @@
+{
+    "data": [
+      {
+        "question": "What does HTML stand for?",
+        "choices": ["Hyper Text Markup Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language", "None of the Above"],
+        "answer": "Hyper Text Markup Language"
+      },
+      {
+        "question": "HTML is what type of language ?",
+        "choices": ["Scripting Language", "Markup Language", "Programming Language", "Network Protocol"],
+        "answer": "Markup Language"
+      },
+      {
+        "question": "How can you make a bulleted list with numbers?",
+        "choices": ["<dl>", "<ol>", "<list>", "<ul>"],
+        "answer": "<ol>"
+      },
+      {
+        "question": "The year in which HTML was first proposed _______.",
+        "choices": ["1990", "1980", "2000", "1995"],
+        "answer": "1990"
+      },
+      {
+        "question": "Apart from <b> tag, what other tag makes text bold ?",
+        "choices": ["<fat>", "<strong>", "<black>", "<emp>"],
+        "answer": "<strong>"
+      },
+      {
+        "question": "How can you make a bulleted list with numbers?",
+        "choices": ["<dl>", "<ol>", "<list>", "<ul>"],
+        "answer": "<ol>"
+      },
+      {
+        "question": "HTML is what type of language ?",
+        "choices": ["Scripting Language", "Markup Language", "Programming Language", "Network Protocol"],
+        "answer": "Markup Language"
+      },
+      {
+        "question": "The year in which HTML was first proposed _______.",
+        "choices": ["1990", "1980", "2000", "1995"],
+        "answer": "1990"
+      },
+      {
+        "question": "Apart from <b> tag, what other tag makes text bold ?",
+        "choices": ["<fat>", "<strong>", "<black>", "<emp>"],
+        "answer": "<strong>"
+      },
+      {
+        "question": "How can you make a bulleted list with numbers?",
+        "choices": ["<dl>", "<ol>", "<list>", "<ul>"],
+        "answer": "<ol>"
+      }
+    ]
+  }

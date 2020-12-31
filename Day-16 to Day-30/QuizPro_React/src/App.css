@@ -1,0 +1,8 @@
+body {
+    --quiz-color: #1a1919;
+}
+
+.app__body {
+    display: flex;
+    height: 91.2vh;
+}

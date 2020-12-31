@@ -1,0 +1,27 @@
+.container {
+    padding-top: 100px;
+}
+
+.quiz__b {
+    background-color: white;
+    padding-top: 30px;
+    padding-left: 205px;
+    
+}
+
+.quiz__c {
+    background-color: white;
+    padding-left: 200px;
+}
+
+.quiz__b > h2 {
+    padding-bottom: 10px;
+}
+
+.quiz__c > span > Button {
+    background-color: #3307fa !important;
+    color: white;
+    padding: 10px;
+    width: 430px;
+    margin:5px;
+}
